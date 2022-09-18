@@ -920,6 +920,10 @@ footer {
     background-color: var(--accent-color);
 }
 
+.footer-form-icon {
+    align-self: center;
+}
+
 
 /* footer */
 
