@@ -985,7 +985,7 @@ footer {
     line-height: 1.15;
     text-align: center;
     letter-spacing: 0.03em;
-    margin-bottom: 30px;
+    margin-bottom: 12px;
     
     color: #212121;
 }
@@ -997,7 +997,7 @@ footer {
 }
 
 .modal-form-field {
-    margin-bottom: 28px;
+    margin-bottom: 10px;
     
 }
 
@@ -1048,6 +1048,7 @@ footer {
 .modal-form-message {
     width: 100%;
     height: 120px;
+    margin-bottom: 20px;
     border-radius: 4px;
     border: 1px solid rgba(33, 33, 33, 0.2);
     padding: 12px 16px;
@@ -1070,6 +1071,7 @@ footer {
     display: flex;
     align-items: center;
     margin-bottom: 30px;
+    justify-content: center;
 }
 
 .modal-form-check {
@@ -1092,6 +1094,7 @@ footer {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
+    /* margin-top: 20px; */
     
     color: #757575;
 }
